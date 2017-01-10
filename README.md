@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hello there!
+
+My name is Tatiana and I'm not afraid of (Commit-)changes! 
+
